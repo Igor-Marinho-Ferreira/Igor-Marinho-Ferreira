@@ -6,9 +6,10 @@
 <a href="https://github.com/Igor-Marinho-Ferreira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
  
- ### About me
- #### I'm Igor, a computer engineering student at Centro Universitário Adventista de São Paulo, keeping an interest in the area of software development and systems administration.
- #### I have been studying/using in my day the technologies C, C++, Ruby, Python, HTML5, CSS3, Javascript, MySQL, Shell and Haskell to be able to make some applications in blockchain.
+### About me
+I'm Igor, a computer engineering student at Centro Universitário Adventista de São Paulo, keeping an interest in the area of software development and systems administration.
+
+I have been studying/using in my day the technologies C, C++, Ruby, Python, HTML5, CSS3, Javascript, MySQL, Shell and Haskell to be able to make some applications in blockchain.
 
 
 <div>
