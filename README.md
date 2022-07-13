@@ -7,8 +7,8 @@
 </div>
  
  ### About me
- I'm Igor, a computer engineering student at Centro Universitário Adventista de São Paulo, keeping an interest in the area of ​​software development and systems administration.
- I have been studying/using in my day the technologies C, C++, Ruby, Python, HTML5, CSS3, Javascript, MySQL, Shell and Haskell to be able to make some applications in blockchain.
+ #### I'm Igor, a computer engineering student at Centro Universitário Adventista de São Paulo, keeping an interest in the area of software development and systems administration.
+ #### I have been studying/using in my day the technologies C, C++, Ruby, Python, HTML5, CSS3, Javascript, MySQL, Shell and Haskell to be able to make some applications in blockchain.
 
 
 <div>
